@@ -6,7 +6,7 @@
 # 5. Print results
 bank = 100
 while bank > 0
-  puts "Welcome welcome to another exciting horse race!"
+  puts "Welcome welcome to another exciting horse race! You have £#{bank} in your bank!"
 
   horses = {
     "bernardo" => 5.0,
